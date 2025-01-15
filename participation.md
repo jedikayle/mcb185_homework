@@ -28,7 +28,14 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Didn't come to class Thursday to save you from getting sick
 	+ Total 4 points
 - Week 1
+    + Attended class Tuesday
+    + Attended class Thursday
+    + Introduced myself to Sophia L
+    + Helped Carolina M set up GitHub
+    + Submitted my GitHub Repo HW
 - Week 2
+    + Study Group with Sophia L and Carolina M
+    + Attended Class on Tuesday
 - Week 3
 - Week 4
 - Week 5
