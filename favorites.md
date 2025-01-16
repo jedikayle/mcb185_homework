@@ -1,4 +1,5 @@
 <h1>My Favorite Food</h1>
+<h2>Sorted by cuisine</h2>
 <ol>
 <li>Thai <ul>
 <li>Pad thai</li>
