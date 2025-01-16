@@ -36,6 +36,8 @@ more than one point per category. There is a maximum of 5 points each week.
 - Week 2
     + Study Group with Sophia L and Carolina M
     + Attended Class on Tuesday
+    + I met Malik on Thursday
+    + Attended Class on Thursday
 - Week 3
 - Week 4
 - Week 5
