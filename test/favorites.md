@@ -18,4 +18,4 @@
 </ul></li>
 </ol>
 
-<strong>I really like to try new food!</strong>
+<p><strong>I really like to try new food!</strong></p>
