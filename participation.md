@@ -33,12 +33,16 @@ more than one point per category. There is a maximum of 5 points each week.
     + Introduced myself to Sophia L
     + Helped Carolina M set up GitHub
     + Submitted my GitHub Repo HW
+    + Total 5 pts
 - Week 2
     + Study Group with Sophia L and Carolina M
-    + Attended Class on Tuesday
+    + Attended class on Tuesday
     + I met Malik on Thursday
-    + Attended Class on Thursday
+    + Attended class on Thursday
+    + Assisted Malik after class to fix our in-class assessment code
+    + Total 5 pts
 - Week 3
+    + Attended class on Tuesday
 - Week 4
 - Week 5
 - Week 6
