@@ -43,8 +43,19 @@ more than one point per category. There is a maximum of 5 points each week.
     + Total 5 pts
 - Week 3
     + Attended class on Tuesday
+    + Attended class on Thursday
+    + Study group with Sophia L and Carolina M
+    + Asked a question in class
+    + Total 4 points
 - Week 4
+    + Attended class on Tuesday
+    + Attended class on Thursday
+    + Study group with Sophia L and Carolina M
+    + I met Zucy on Tuesday
+    + Total 4 points
 - Week 5
+    + Attended class on Tuesday
+    + Attended class on Thursday
 - Week 6
 - Week 7
 - Week 8
