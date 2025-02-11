@@ -7,17 +7,17 @@ Demonstrate the functions work by calling them several times. Edge cases should 
 import math
 
 print('phred score to error probability')
-def char_to_prob(char):
-    q=ord(char)-33 # conversion from character to quality score
-    if q<0: return None
-    return 10 ** (-q/10)
+def char_to_prob(c):
+    return 2 ** (64-ord(c))
 print (char_to_prob('A'))
 
 print('error probability to phred score')
 def prob_to_char(prob):
-    if prob <=0 or prob > 1: return None
-    q=-10 * math.log10(prob)
-    asciival = round(q + 33) # convert back to ascii value
-    if asciival < 33 or asciival > 126: return None
-    return chr(asciival)
-print (prob_to_char(0.001))
+    return chr(int(-math.log2(prob)))
+print (prob_to_char(0.5))
+
+'''
+A = 2^-1 65
+B = 2^-2 66
+C = 2^-3 67
+'''
