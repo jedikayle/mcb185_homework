@@ -1,9 +1,7 @@
 # monty pi-thon
 import random 
-x = 0 # set initial value for x and y
-y = 0 
+
 inside = 0 # set initial value for inside and outside
-outside = 0
 total = 0
 
 while True: # infinite loop
@@ -14,6 +12,6 @@ while True: # infinite loop
     distance = x**2 + y**2 # squared distance from (0,0) d^2 = x^2 + y^2
 
     if distance <=1: # if distance <1 then point inside circle
-        inside += 1
+        inside += 1 # this means inside = inside + 1
         piestimate = 4 * (inside / total)
     print(piestimate)

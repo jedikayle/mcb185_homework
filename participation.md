@@ -56,8 +56,27 @@ more than one point per category. There is a maximum of 5 points each week.
 - Week 5
     + Attended class on Tuesday
     + Attended class on Thursday
+    + Study group with Sophia L and Carolina M
+    + Total 3 Points
 - Week 6
+    + Attended class on Tuesday
+    + Attended class on Thursday
+    + Got assessed for Unit 1 and passed
+    + Study group with Sophia L and Carolina M
+    + Attended a Coderie
+    + Total 5 points
 - Week 7
+    + Attended class on Tuesday
+    + Attended class on Thursday
+    + Studied with Zucy on Unit 2 code
+    + I met Alex Quiroz
+    + Study group with Sophia L and Carolina M
+    + Total 5 points
 - Week 8
+    + Attended class on Tuesday
+    + Attended class on Thursday
+    + Studied with Zucy for help with my Unit 2 Code
+    + Joined VC with Alex for help with Unit 2
+    + 
 - Week 9
 - Week 10
