@@ -33,9 +33,9 @@ def savingthrowsadvantage(dc):
             success += 1
         print(i,dc,roll1,roll2,'success', success/trials)
         print('probability of success with advantage is', success/trials)
-savingthrowsnormal(5)
-savingthrowsnormal(10)
-savingthrowsnormal(15)
+savingthrowsadvantage(5)
+savingthrowsadvantage(10)
+savingthrowsadvantage(15)
 
 trials = 100
 def savingthrowsdisadvantage(dc):
@@ -49,6 +49,6 @@ def savingthrowsdisadvantage(dc):
             success += 1
         print(i,dc,roll1,roll2,'success', success/trials)
         print('probability of success with disadvantage is', success/trials)
-savingthrowsnormal(5)
-savingthrowsnormal(10)
-savingthrowsnormal(15)
+savingthrowsdisadvantage(5)
+savingthrowsdisadvantage(10)
+savingthrowsdisadvantage(15)
