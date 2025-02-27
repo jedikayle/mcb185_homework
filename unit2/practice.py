@@ -1,4 +1,4 @@
- # practice problems
+# practice problems
 import math
 def triangularnumber(n):
     tri = 0
