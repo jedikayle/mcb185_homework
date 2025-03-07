@@ -163,3 +163,18 @@ print('index G?', alph.index('G')) # stringname.index() = returns index of where
 alph = 'ABCDEFGHIKLMPQRSVW'
 print('find G?', alph.find("G")) 
 print('find Z?', alph.find("Z")) # returns -1 to indicate it does not exist
+
+# command line data
+import sys
+print(sys.argv)
+
+# converting types
+'''command line arguments are always strings
+so you must convert them to numbers for math
+operations'''
+
+i = int('42') # converts '42' to an integer
+x = float('0.61803') # converts number to a float
+print(i*x)
+
+# x = float('hello') would get an error bc hello is not a number
