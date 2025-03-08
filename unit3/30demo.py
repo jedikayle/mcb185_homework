@@ -178,3 +178,24 @@ x = float('0.61803') # converts number to a float
 print(i*x)
 
 # x = float('hello') would get an error bc hello is not a number
+
+# pairwise comparison = comparing each item in a list with every other item
+listpair = ['A','C','T','G']
+print(listpair)
+
+print('all combinations: X = 0')
+for i in range(0, len(listpair)):
+    for j in range(0, len(listpair)): # starts at 0
+        print(listpair[i], listpair[j])
+
+print('half matrix with diagonal: X = i') # includes self compariosons
+for i in range(0, len(listpair)):
+    for j in range(i, len(listpair)): # starts at i
+        print(listpair[i], listpair[j])
+
+print('half matrix w/o diagonal: X = i + 1')
+for i in range(0, len(listpair)):
+    for j in range(i + 1, len(listpair)): # starts at i + 1
+        print(listpair[i], listpair[j])
+
+
