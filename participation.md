@@ -21,12 +21,6 @@ more than one point per category. There is a maximum of 5 points each week.
 
 ## Log ##
 
-- Demo
-	+ Attended class Tuesday
-	+ Asked a question in class
-	+ Introduced myself to Chris B
-	+ Didn't come to class Thursday to save you from getting sick
-	+ Total 4 points
 - Week 1
     + Attended class Tuesday
     + Attended class Thursday
@@ -51,13 +45,14 @@ more than one point per category. There is a maximum of 5 points each week.
     + Attended class on Tuesday
     + Attended class on Thursday
     + Study group with Sophia L and Carolina M
-    + I met Zucy on Tuesday
+    + I met Zucy V on Tuesday
     + Total 4 points
 - Week 5
     + Attended class on Tuesday
-    + Attended class on Thursday
+    + Did not attend class on Thursday because I was sick
+    + Got help from Zucy V for Unit 1
     + Study group with Sophia L and Carolina M
-    + Total 3 Points
+    + Total 4 Points
 - Week 6
     + Attended class on Tuesday
     + Attended class on Thursday
@@ -76,7 +71,16 @@ more than one point per category. There is a maximum of 5 points each week.
     + Attended class on Tuesday
     + Attended class on Thursday
     + Studied with Zucy for help with my Unit 2 Code
-    + Joined VC with Alex for help with Unit 2
-    + 
+    + Joined VC with Alex because I needed help with Unit 2
+    + Got assessed for Unit 2 and passed
+    + Total 5 points
 - Week 9
+    + Attended class on Tuesday
+    + Attended class on Thursday
+    + Attended a Coderie
+    + Finished Unit 3, still need to get assessed though
+    + Worked with Alex Q because I needed help with Unit 3
+    + Total 5 points
 - Week 10
+    + Attended class
+    + Attended class

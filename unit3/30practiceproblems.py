@@ -29,7 +29,8 @@ print(mean(numbers))
 # below is the command that prof expects, but above is faster
 def altmean(vals):
     total = 0 # set starting point
-    for val in vals: total += val # loop that goes through each value and adds it to total
+    for val in vals: 
+        total += val # loop that goes through each value and adds it to total
     return total/len(vals)
 print(altmean(numbers))
 
