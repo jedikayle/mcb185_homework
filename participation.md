@@ -36,7 +36,7 @@ more than one point per category. There is a maximum of 5 points each week.
     + Assisted Malik after class to fix our in-class assessment code
     + Total 5 pts
 - Week 3
-    + Attended class on Tuesday
+    + I did not attend class on Tuesday because I was sick
     + Attended class on Thursday
     + Study group with Sophia L and Carolina M
     + Asked a question in class
@@ -78,9 +78,10 @@ more than one point per category. There is a maximum of 5 points each week.
     + Attended class on Tuesday
     + Attended class on Thursday
     + Attended a Coderie
-    + Finished Unit 3, still need to get assessed though
+    + I met Jenna!
     + Worked with Alex Q because I needed help with Unit 3
     + Total 5 points
 - Week 10
+    + Attended class on Tuesday
     + Attended class
-    + Attended class
+    + Got assessed for Unit 3 and passed, however I struggled and it made me sad :'c
