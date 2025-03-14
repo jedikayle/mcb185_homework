@@ -64,7 +64,7 @@ more than one point per category. There is a maximum of 5 points each week.
     + Attended class on Tuesday
     + Attended class on Thursday
     + Studied with Zucy on Unit 2 code
-    + I met Alex Quiroz
+    + I met Alex Q
     + Study group with Sophia L and Carolina M
     + Total 5 points
 - Week 8
@@ -78,10 +78,11 @@ more than one point per category. There is a maximum of 5 points each week.
     + Attended class on Tuesday
     + Attended class on Thursday
     + Attended a Coderie
-    + I met Jenna!
+    + I met Jenna H
     + Worked with Alex Q because I needed help with Unit 3
     + Total 5 points
 - Week 10
     + Attended class on Tuesday
-    + Attended class
     + Got assessed for Unit 3 and passed, however I struggled and it made me sad :'c
+    + Attended a coderie
+
