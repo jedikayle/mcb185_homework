@@ -78,7 +78,7 @@ more than one point per category. There is a maximum of 5 points each week.
     + Attended class on Tuesday
     + Attended class on Thursday
     + Attended a Coderie
-    + I met Jenna H
+    + I introduced myself to Jenna H
     + Worked with Alex Q because I needed help with Unit 3
     + Total 5 points
 - Week 10
