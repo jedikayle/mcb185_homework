@@ -86,4 +86,6 @@ more than one point per category. There is a maximum of 5 points each week.
     + Got assessed for Unit 3 and passed, however I struggled and it made me sad :'c
     + Attended a coderie
     + Worked with Carolina on Unit 4 (:
+    + Worked with Carolina and Alex Q to review Unit 4
+    + Total 5 Points
 
