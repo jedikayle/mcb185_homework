@@ -14,7 +14,7 @@ def dtc(P,Q):
     return d
 
 # initializing variables
-mindistance = 246 # initializing the closest distance to max val
+mindistance = 256 # initializing the closest distance to max val
 closestcolor = None # saying that there isnt currently a closest color
 
 # opening color file and looking
@@ -44,5 +44,12 @@ azure	#F0FFFF	240,255,255
 \t = 'tab'
 
 rgb values range from 0 to 255
+
+jedikayleserna@Jedikayles-MacBook-Air unit4 % python3 45colorname.py ~/Code/MCB185/data/colors_extended.tsv 200 0 50
+crimson 50
+jedikayleserna@Jedikayles-MacBook-Air unit4 % python3 45colorname.py ~/Code/MCB185/data/colors_extended.tsv 0 0 255 
+blue 0
+jedikayleserna@Jedikayles-MacBook-Air unit4 % python3 45colorname.py ~/Code/MCB185/data/colors_extended.tsv 0 255 0
+lime 0
 
 '''
